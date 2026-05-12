@@ -14,13 +14,12 @@ The project includes:
 - Confusion Matrix
 - Feature Importance Analysis
 
----
 
 ## objective
 
 The objective of this project is to build a binary classification model that predicts the presence of heart disease using patient health data.
 
----
+
 
 ## Dataset
 
@@ -29,7 +28,7 @@ Dataset Used: Heart Disease UCI Dataset
 Source:
 https://www.kaggle.com/datasets/ineubytes/heart-disease-dataset
 
----
+
 
 ## Technologies Used
 
@@ -41,7 +40,7 @@ https://www.kaggle.com/datasets/ineubytes/heart-disease-dataset
 - Seaborn
 - Scikit-learn
 
----
+
 
 ## Project Workflow
 
@@ -56,7 +55,7 @@ https://www.kaggle.com/datasets/ineubytes/heart-disease-dataset
 9. Model Evaluation
 10. Feature Importance Visualization
 
----
+
 
 ## Model Evaluation
 
@@ -66,7 +65,7 @@ The model was evaluated using:
 - ROC Curve
 - ROC-AUC Score
 
----
+
 
 ## Important Features
 
@@ -77,7 +76,7 @@ Some important features affecting heart disease prediction include:
 - Oldpeak
 - Age
 
----
+
 
 ## How to Run the Project
 
